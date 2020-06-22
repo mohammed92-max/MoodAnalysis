@@ -9,6 +9,6 @@ public class MoodAnalyze
             return "happy";
         }
         else
-            return "sad";
+            return "SAD";
     }
 }
